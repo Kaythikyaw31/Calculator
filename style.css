@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+table{
+    margin: auto;
+
+}
+input{
+    font-size: 34px;
+
+}
+button{
+    font-size:40px;
+    background: chartreuse;
+    width:102px;
+    height:58px
+
+
+
+}

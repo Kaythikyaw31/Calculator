@@ -4,18 +4,31 @@
 }
 table{
     margin: auto;
+    padding-top: 5px;
+    height: 300px;
 
 }
 input{
-    font-size: 34px;
+    font-size: 30px;
+    border-radius: 200px;
+    border-color: rgb(88, 76, 218);
+    border-width: 3px;
 
 }
 button{
-    font-size:40px;
-    background: chartreuse;
-    width:102px;
-    height:58px
+    border-radius: 20px;
+    font-size:30px;
+    background: pink;
+    width:90px;
+    height:48px
+    
+}
+.calculator{
+    display: inline-block;
+    background-color: rgb(243, 19, 243);
+    margin-top: 5px;
+    padding: 15px;
+    border-radius: 25px;
 
-
-
+    
 }
